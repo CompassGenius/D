@@ -1,2 +1,2 @@
 class Script(object):
-    START_TXT = """Hello {},
+    START_TXT = """<b>@cinema_kotaka..!</b>"""
