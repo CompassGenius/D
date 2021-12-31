@@ -7,7 +7,7 @@ My name is <a href=https://t.me/{}>{}</a>!
 
 Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 
-    HELP_TXT = """Hey {}
+    = """Hey {}
 
 <b>Here Is The Help For My Commands.</b>"""
 
@@ -19,7 +19,7 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 ➥ Bot Server: Railway/Heroku
 ➥ Build Status: v1.0.1 [ Beta ]"""
 
-    SOURCE_TXT = """<b>Source:</b>
+     = """<b>Source:</b>
 IMDb is a Open source project.
 Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
 
@@ -29,7 +29,7 @@ Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 
 <b>SUPPORT GROUP</b>
 - <a href='https://t.me/+y53tWFUw6Q43NzE9'>Jos Movie Club</a>"""
 
-    MANUALFILTER_TXT = """Help: <b>Filters</b>
+     = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Dingdi will respond whenever a keyword is found the message
 
@@ -44,7 +44,7 @@ Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 
 • /del - delete a specific filter in chat.
 • /delall - delete the whole filters in a chat (chat owner only)."""
 
-    BUTTON_TXT = """Help: <b>Buttons</b>
+     = """Help: <b>Buttons</b>
 
 - tgmoviebot support both url and alert inline buttons.
 
@@ -67,7 +67,7 @@ Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 
 3. Forward the last message to me with quotes.
  I'll add all the files in that channel to my db."""
 
-    CONNECTION_TXT = """Help: <b>Connections</b>
+    = """Help: <b>Connections</b>
 
 - Used to connect bot to PM for managing filters 
 - It helps to avoid spamming in groups.
@@ -81,11 +81,11 @@ Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 
 • /disconnect  - disconnect from a chat.
 • /connections - list all your connections."""
 
-    AUTO_MANUAL_TXT = """Help: <b>Filters</b>
+     = """Help: <b>Filters</b>
 
 <b>Select a filters type Below:</b>"""
 
-    PASTE_TXT = """Help: <b>Paste</b>
+     = """Help: <b>Paste</b>
 
 Paste some texts or documents on a website!
 
@@ -98,7 +98,7 @@ Paste some texts or documents on a website!
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
-    TGRAPH_TXT = """Help: <b>TGraph & Paste</b>
+    = """Help: <b>TGraph & Paste</b>
 
 Do as you wish with telegra.ph module!
 
@@ -110,7 +110,7 @@ Do as you wish with telegra.ph module!
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
-    INFO_TXT = """Help: <b>Information</b>
+     = """Help: <b>Information</b>
 
 Get information about something!
 
@@ -124,7 +124,7 @@ Get information about something!
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
-    GTRANS_TXT = """Help: <b>Google Translator</b>
+    = """Help: <b>Google Translator</b>
 
 Translate texts to a specific language!
 
@@ -136,7 +136,7 @@ Translate texts to a specific language!
 • These commands works on both pm and group.
 • IMDb can translate texts to 200+ languages."""
 
-    SEARCH_TXT = """Help: <b>IMDb</b>
+    = """Help: <b>IMDb</b>
 
 Search many things without leaving telegram!
 
@@ -149,7 +149,7 @@ Search many things without leaving telegram!
 • More search tools can be found on inline.
 • Those commands works on both pm and group."""
 
-    PURGE_TXT = """Help: <b>Purge</b>
+     = """Help: <b>Purge</b>
 
 Need to delete lots of messages? That's what purges are for!
 
@@ -161,7 +161,7 @@ Need to delete lots of messages? That's what purges are for!
 • These commands works on group.
 • These commands can be used by Only admin."""
 
-    RESTRIC_TXT = """Help: <b>Restrictions</b>
+     = """Help: <b>Restrictions</b>
 
 Some people need to be publicly banned; spammers, annoyances, or just trolls.
 
@@ -183,7 +183,7 @@ This module allows you to do that easily, by exposing some common actions, so ev
 • These commands works on group.
 • These commands can be used by Only admin."""
 
-    PIN_MESSAGE_TXT = """Help: <b>Pin Message</b>
+    = """Help: <b>Pin Message</b>
 
 All the pin related commands can be found here; keep your chat up to date on the latest news with a simple pinned message!
 
@@ -196,7 +196,7 @@ All the pin related commands can be found here; keep your chat up to date on the
 • These commands works only group.
 • These commands can be used by Only admin."""
 
-    ADMIN_TXT = """Help: <b>Admin Mods</b>
+    = """Help: <b>Admin Mods</b>
 
 <b>NOTE:</b>
 This module only works for my admins
@@ -214,7 +214,7 @@ This module only works for my admins
 • /channel - to get list of total connected channels.
 • /broadcast - to broadcast a message to all users."""
 
-    STATUS_TXT = """<b>Total Files:</b> <code>{}</code>
+    = """<b>Total Files:</b> <code>{}</code>
 <b>Total Users:</b> <code>{}</code>
 <b>Total Chats:</b> <code>{}</code>
 <b>Used Storage:</b> <code>{}</code> MiB
@@ -226,7 +226,7 @@ __🗣 In Order To Get The Movie Requested By You in Our Groups, You Will Have T
 
 **👇 JOIN THIS CHANNEL & TRY AGAIN 👇**"""
 
-    MEMES_TXT = """Help: <b>Memes</b>
+     = """Help: <b>Memes</b>
 
 Some dank memes for fun or whatever!
 
@@ -242,7 +242,7 @@ Some dank memes for fun or whatever!
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
-    URL_SHORTNER_TXT = """Help: <b>URL Shortner</b>
+     = """Help: <b>URL Shortner</b>
 
 Some URLs is Shortner
 
@@ -257,7 +257,7 @@ Some URLs is Shortner
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
-    TTS_TXT = """Help: <b>Text to Speech</b>
+     = """Help: <b>Text to Speech</b>
 
 A module to convert text to voice with language support.
 
@@ -269,7 +269,8 @@ A module to convert text to voice with language support.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
-    MUSIC_TXT = """Help: <b>Music</b>
+    M
+= """Help: <b>Music</b>
 
 Music download modules, for those who love music.
 
@@ -286,7 +287,9 @@ Music download modules, for those who love music.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
-    PASSWORD_GEN_TXT = """Help: <b>Password Generator</b>
+    PAS
+
+ = """Help: <b>Password Generator</b>
 
 There Is Nothing To Know More. Send Me The Limit Of Your Password.
 - I Will Give The Password Of That Limit.
@@ -302,17 +305,23 @@ There Is Nothing To Know More. Send Me The Limit Of Your Password.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
-    LOG_TEXT_G = """#NewGroup
+    L= """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
 Added By - {}
 """
 
-    LOG_TEXT_P = """#NewUser
+    LOG_TEXT_P
+
+
+
+ = """#NewUser
 ID - <code>{}</code>
 Name - {}"""
 
-    ZOMBIES_TXT = """Help: <b>Zombies</b>
+    
+
+ = """Help: <b>Zombies</b>
 
 <b>Kick incative members from group. Add me as admin with ban users permission in group.</b>
 
@@ -323,19 +332,19 @@ Name - {}"""
 • /inkick long_time_ago - to kick members who are offline for more than a month and Deleted Accounts.
 • /dkick - to kick deleted accounts."""
 
-    CREATOR_REQUIRED = """❗You have to be the group creator to do that."""
+     = """❗You have to be the group creator to do that."""
       
-    INPUT_REQUIRED = "❗ **Arguments Required**"
+     = "❗ **Arguments Required**"
       
-    KICKED = """✔️ Successfully Kicked {} members according to the arguments provided."""
+     = """✔️ Successfully Kicked {} members according to the arguments provided."""
       
-    START_KICK = """🚮 Removing inactive members this may take a while..."""
+   = """🚮 Removing inactive members this may take a while..."""
       
-    ADMIN_REQUIRED = """❗I am not an admin here\n__Leaving this chat, add me again as admin with ban user permission."""
+     = """❗I am not an admin here\n__Leaving this chat, add me again as admin with ban user permission."""
       
-    DKICK = """✔️ Kicked {} Deleted Accounts Successfully."""
+  = """✔️ Kicked {} Deleted Accounts Successfully."""
       
-    FETCHING_INFO = """Collecting users information..."""
+     = """Collecting users information..."""
       
-    STATUS = """{}\nChat Member Status**\n\n```recently``` - {}\n```within_week``` - {}\n```within_month``` - {}\n```long_time_ago``` - {}\nDeleted Account - {}\nBot - {}\nUnCached - {}
+     = """{}\nChat Member Status**\n\n```recently``` - {}\n```within_week``` - {}\n```within_month``` - {}\n```long_time_ago``` - {}\nDeleted Account - {}\nBot - {}\nUnCached - {}
 """
